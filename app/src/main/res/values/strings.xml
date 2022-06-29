@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Challenge Chapter 6</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="overview">Orang tua asal suku Batak yang pura-pura bertengkar agar anak-anaknya pulang dari perantauan.</string>
+</resources>
